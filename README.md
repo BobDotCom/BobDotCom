@@ -11,13 +11,13 @@
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BobDotCom&show_icons=True&count_private=True&theme=blue-green&include_all_commits=True&hide_border=true&bg_color=1a1b27)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BobDotCom&show_icons=True&count_private=True&theme=blue-green&include_all_commits=True&hide_border=true&bg_color=282828)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobDotCom&theme=blue-green&layout=compact&hide_border=true&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobDotCom&theme=blue-green&layout=compact&hide_border=true&bg_color=282828)
 
 ### My Cool Repository
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot&theme=blue-green&bg_color=1a1b27&hide_border=True)](https://github.com/BobDotCom/BobDotBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot&theme=blue-green&bg_color=282828&hide_border=True)](https://github.com/BobDotCom/BobDotBot)
 
 <!--
 **BobDotCom/BobDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
