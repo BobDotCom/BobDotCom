@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm BobDotCom
+
+- 🔭 I’m currently working on [BobDotBot](https://github.com/BobDotCom/BobDotBot), an open source discord bot made with discord.py
+- 🌱 I’m currently learning javascript + html + css (basically all the frontend stuff)
+- 👯 I’m looking to collaborate on literally anything I could get paid for
+- 🤔 I’m looking for help with school
+- 💬 Ask me about my projects
+- 📫 How to reach me: bobdotcomgt@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: this is copied from the ideas to get you started because im bad at thinking of stuff
 
 <!--
 **BobDotCom/BobDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
