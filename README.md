@@ -17,7 +17,7 @@
 
 ### My Cool Repository
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot&theme=blue-green)](https://github.com/BobDotCom/BobDotBot&bg_color=1a1b27&hide_border=True)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot&theme=blue-green&bg_color=1a1b27&hide_border=True)](https://github.com/BobDotCom/BobDotBot)
 
 <!--
 **BobDotCom/BobDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
