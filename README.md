@@ -9,6 +9,16 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this is copied from the ideas to get you started because im bad at thinking of stuff
 
+### Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BobDotCom&show_icons=True&count_private=True&theme=blue-green&include_all_commits=True)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobDotCom&theme=blue-green&layout=compact)
+
+### My Cool Repository
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot)](https://github.com/BobDotCom/BobDotBot)
+
 <!--
 **BobDotCom/BobDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
