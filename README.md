@@ -1,13 +1,10 @@
 ### Hi there 👋, I'm BobDotCom
 
-- 🔭 I’m currently working on [BobDotBot](https://github.com/BobDotCom/BobDotBot), an open source discord bot made with discord.py
-- 🌱 I’m currently learning javascript + html + css (basically all the frontend stuff)
-- 👯 I’m looking to collaborate on literally anything I could get paid for
-- 🤔 I’m looking for help with school
-- 💬 Ask me about my projects
-- 📫 How to reach me: bobdotcomgt@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: this is copied from the ideas to get you started because im bad at thinking of stuff
+- Lead developer and owner of [Pycord Development](https://github.com/Pycord-Development)
+- Fullstack developer
+- Proficient in html, css, and js
+- Preferred language is python
+- Available for hire: bobdotcomgt@gmail.com
 
 ### Stats
 
@@ -15,9 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobDotCom&theme=merko&layout=compact&hide_border=true&bg_color=282828)
 
-### My Cool Repository
+### Pycord
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BobDotCom&repo=BobDotBot&theme=merko&bg_color=282828&hide_border=True)](https://github.com/BobDotCom/BobDotBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pycord-Development&repo=pycord&theme=merko&bg_color=282828&hide_border=True)](https://github.com/Pycord-Development/pycord)
 
 <!--
 **BobDotCom/BobDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
