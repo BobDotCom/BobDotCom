@@ -192,7 +192,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    335k added, 288k removed
+                                    111k added, 39.6k removed
                                 </div>
                             </section>
                             <section>
@@ -491,7 +491,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 44 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1753,16 +1753,17 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a397f21</div>
-                                        <div class="message">chore(deps): bump react-icons from 4.7.1 to 4.8.0 (#262)
+                                        <div class="sha">#9553587</div>
+                                        <div class="message">chore(deps): bump sass from 1.58.3 to 1.60.0 (#279)
 
-Bumps [react-icons](https://github.com/react-icons/react-icons) from 4.7.1 to 4.8.0.
-- [Release notes](https://github.com/react-icons/react-icons/releases)
-- [Commits](https://github.com/react-icons/react-icons/compare/v4.7.1...v4.8.0)
+Bumps [sass](https://github.com/sass/dart-sass) from 1.58.3 to 1.60.0.
+- [Release notes](https://github.com/sass/dart-sass/releases)
+- [Changelog](https://github.com/sass/dart-sass/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sass/dart-sass/compare/1.58.3...1.60.0)
 
 ---
 updated-dependencies:
-- dependency-name: react-icons
+- dependency-name: sass
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
@@ -1781,23 +1782,23 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/guide</span>
+                                        <span class="repo">Pycord-Development/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b967adc</div>
-                                        <div class="message">chore(deps-dev): Bump remark-mdx from 2.2.1 to 2.3.0 (#295)
+                                        <div class="sha">#c086812</div>
+                                        <div class="message">chore(deps-dev): bump eslint from 8.35.0 to 8.36.0 (#280)
 
-Bumps [remark-mdx](https://github.com/mdx-js/mdx/tree/HEAD/packages/remark-mdx) from 2.2.1 to 2.3.0.
-- [Release notes](https://github.com/mdx-js/mdx/releases)
-- [Changelog](https://github.com/mdx-js/mdx/blob/main/changelog.md)
-- [Commits](https://github.com/mdx-js/mdx/commits/2.3.0/packages/remark-mdx)
+Bumps [eslint](https://github.com/eslint/eslint) from 8.35.0 to 8.36.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v8.35.0...v8.36.0)
 
 ---
 updated-dependencies:
-- dependency-name: remark-mdx
+- dependency-name: eslint
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1816,23 +1817,24 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/guide</span>
+                                        <span class="repo">Pycord-Development/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c58468</div>
-                                        <div class="message">chore(deps): Bump @sideway/formula from 3.0.0 to 3.0.1 (#287)
+                                        <div class="sha">#0d5069b</div>
+                                        <div class="message">Bump tqdm from 4.64.1 to 4.65.0 (#263)
 
-Bumps [@sideway/formula](https://github.com/sideway/formula) from 3.0.0 to 3.0.1.
-- [Release notes](https://github.com/sideway/formula/releases)
-- [Commits](https://github.com/sideway/formula/compare/v3.0.0...v3.0.1)
+Bumps [tqdm](https://github.com/tqdm/tqdm) from 4.64.1 to 4.65.0.
+- [Release notes](https://github.com/tqdm/tqdm/releases)
+- [Commits](https://github.com/tqdm/tqdm/compare/v4.64.1...v4.65.0)
 
 ---
 updated-dependencies:
-- dependency-name: "@sideway/formula"
-  dependency-type: indirect
+- dependency-name: tqdm
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
@@ -1855,19 +1857,18 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56aaf74</div>
-                                        <div class="message">chore(deps): bump @next/font from 13.2.3 to 13.2.4 (#267)
+                                        <div class="sha">#2da80f7</div>
+                                        <div class="message">chore(deps-dev): bump @types/node from 18.14.4 to 18.15.7 (#277)
 
-Bumps [@next/font](https://github.com/vercel/next.js/tree/HEAD/packages/font) from 13.2.3 to 13.2.4.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/commits/v13.2.4/packages/font)
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.14.4 to 18.15.7.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
 
 ---
 updated-dependencies:
-- dependency-name: "@next/font"
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+- dependency-name: "@types/node"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
@@ -1890,18 +1891,18 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f389319</div>
-                                        <div class="message">chore(deps): bump next from 13.2.3 to 13.2.4 (#266)
+                                        <div class="sha">#56bb5de</div>
+                                        <div class="message">chore(deps-dev): bump eslint-config-next from 13.2.3 to 13.2.4 (#281)
 
-Bumps [next](https://github.com/vercel/next.js) from 13.2.3 to 13.2.4.
+Bumps [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) from 13.2.3 to 13.2.4.
 - [Release notes](https://github.com/vercel/next.js/releases)
 - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v13.2.3...v13.2.4)
+- [Commits](https://github.com/vercel/next.js/commits/v13.2.4/packages/eslint-config-next)
 
 ---
 updated-dependencies:
-- dependency-name: next
-  dependency-type: direct:production
+- dependency-name: eslint-config-next
+  dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
 
@@ -2758,7 +2759,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2023, 10:18:50 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Mar 2023, 11:23:10 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
