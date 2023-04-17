@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3329" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3612" class="">
     <defs>
         <style/>
     </defs>
@@ -186,13 +186,13 @@ Pycord contact email: pycorddev@gmail.com</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    462 MB used
+                                    463 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    325k added, 274k removed
+                                    79.5k added, 22.7k removed
                                 </div>
                             </section>
                             <section>
@@ -491,7 +491,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 38 commits)</small>
+                    <small class="h-details">(computed from last 41 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1763,6 +1763,387 @@ Pycord contact email: pycorddev@gmail.com</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 88 commits in
+                                        <span class="repo">Pycord-Development/pycord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">unittest</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#546f051</div>
+                                        <div class="message">chore(deps): Bump sphinxext-opengraph from 0.7.5 to 0.8.0 (#1911)
+
+Bumps [sphinxext-opengraph](https://github.com/wpilibsuite/sphinxext-opengraph) from 0.7.5 to 0.8.0.
+- [Release notes](https://github.com/wpilibsuite/sphinxext-opengraph/releases)
+- [Commits](https://github.com/wpilibsuite/sphinxext-opengraph/compare/v0.7.5...V0.8.0)
+
+---
+updated-dependencies:
+- dependency-name: sphinxext-opengraph
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#615f91a</div>
+                                        <div class="message">feat: application role connections (#1791)
+
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;lala@pycord.dev&gt;
+Co-authored-by: Dorukyum &lt;53639936+Dorukyum@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17fcf23</div>
+                                        <div class="message">feat: application role connections (#1791)
+
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;lala@pycord.dev&gt;
+Co-authored-by: Dorukyum &lt;53639936+Dorukyum@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2385ef2</div>
+                                        <div class="message">feat: application role connections (#1791)
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;lala@pycord.dev&gt;
+Co-authored-by: Dorukyum &lt;53639936+Dorukyum@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd934e9</div>
+                                        <div class="message">feat: application role connections (#1791)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0493dc</div>
+                                        <div class="message">feat: application role connections (#1791)
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;lala@pycord.dev&gt;
+Co-authored-by: Dorukyum &lt;53639936+Dorukyum@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#615f48d</div>
+                                        <div class="message">chore(deps-dev): Update pylint requirement from ~=2.16.0 to ~=2.16.1 (#1902)
+
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b57d2a</div>
+                                        <div class="message">chore(deps-dev): Bump pre-commit from 3.0.2 to 3.0.4 (#1904)
+
+
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6ebeda</div>
+                                        <div class="message">chore(deps-dev): Update pylint requirement from ~=2.15.10 to ~=2.16.0 (#1901)
+
+Updates the requirements on [pylint](https://github.com/PyCQA/pylint) to permit the latest version.
+- [Release notes](https://github.com/PyCQA/pylint/releases)
+- [Commits](https://github.com/PyCQA/pylint/compare/v2.15.10...v2.16.0)
+
+---
+updated-dependencies:
+- dependency-name: pylint
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59ab780</div>
+                                        <div class="message">chore(deps): Bump sphinx-autodoc-typehints from 1.21.8 to 1.22 (#1900)
+
+Bumps [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) from 1.21.8 to 1.22.
+- [Release notes](https://github.com/tox-dev/sphinx-autodoc-typehints/releases)
+- [Changelog](https://github.com/tox-dev/sphinx-autodoc-typehints/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tox-dev/sphinx-autodoc-typehints/compare/1.21.8...1.22)
+
+---
+updated-dependencies:
+- dependency-name: sphinx-autodoc-typehints
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec750cd</div>
+                                        <div class="message">chore(deps-dev): Bump pre-commit from 3.0.1 to 3.0.2 (#1898)
+
+Bumps [pre-commit](https://github.com/pre-commit/pre-commit) from 3.0.1 to 3.0.2.
+- [Release notes](https://github.com/pre-commit/pre-commit/releases)
+- [Changelog](https://github.com/pre-commit/pre-commit/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/pre-commit/pre-commit/compare/v3.0.1...v3.0.2)
+
+---
+updated-dependencies:
+- dependency-name: pre-commit
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db586a8</div>
+                                        <div class="message">chore(pre-commit): pre-commit autoupdate (#1897)
+
+updates:
+- [github.com/PyCQA/isort: 5.11.4 → 5.12.0](https://github.com/PyCQA/isort/compare/5.11.4...5.12.0)
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4179b3b</div>
+                                        <div class="message">fix: Document Option.channel_types and properly support further channel types (#1883)
+
+* Add channel_types documentation for discord.Option
+
+* fix doc note
+
+* Support forum and private channels(?)
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+* Clarification in docs
+
+* typo
+
+* Use new annotation syntax
+
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;
+Signed-off-by: UK &lt;41271523+NeloBlivion@users.noreply.github.com&gt;
+
+* Specify more appropriate type
+
+Signed-off-by: UK &lt;41271523+NeloBlivion@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: UK &lt;41271523+NeloBlivion@users.noreply.github.com&gt;
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;lala@pycord.dev&gt;
+Co-authored-by: plun1331 &lt;49261529+plun1331@users.noreply.github.com&gt;
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9da7cf9</div>
+                                        <div class="message">chore(deps-dev): Update coverage requirement from ~=7.0 to ~=7.1 (#1895)
+
+Updates the requirements on [coverage](https://github.com/nedbat/coveragepy) to permit the latest version.
+- [Release notes](https://github.com/nedbat/coveragepy/releases)
+- [Changelog](https://github.com/nedbat/coveragepy/blob/master/CHANGES.rst)
+- [Commits](https://github.com/nedbat/coveragepy/compare/7.0.0...7.1.0)
+
+---
+updated-dependencies:
+- dependency-name: coverage
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9e8341</div>
+                                        <div class="message">chore(deps): Bump sphinx-autodoc-typehints from 1.21.7 to 1.21.8 (#1890)
+
+Bumps [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) from 1.21.7 to 1.21.8.
+- [Release notes](https://github.com/tox-dev/sphinx-autodoc-typehints/releases)
+- [Changelog](https://github.com/tox-dev/sphinx-autodoc-typehints/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tox-dev/sphinx-autodoc-typehints/compare/1.21.7...1.21.8)
+
+---
+updated-dependencies:
+- dependency-name: sphinx-autodoc-typehints
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9071d5</div>
+                                        <div class="message">chore(deps-dev): Bump pre-commit from 2.21.0 to 3.0.1 (#1896)
+
+Bumps [pre-commit](https://github.com/pre-commit/pre-commit) from 2.21.0 to 3.0.1.
+- [Release notes](https://github.com/pre-commit/pre-commit/releases)
+- [Changelog](https://github.com/pre-commit/pre-commit/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/pre-commit/pre-commit/compare/v2.21.0...v3.0.1)
+
+---
+updated-dependencies:
+- dependency-name: pre-commit
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0679edd</div>
+                                        <div class="message">chore(deps): Bump sphinx-autodoc-typehints from 1.21.1 to 1.21.7 (#1887)
+
+Bumps [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) from 1.21.1 to 1.21.7.
+- [Release notes](https://github.com/tox-dev/sphinx-autodoc-typehints/releases)
+- [Changelog](https://github.com/tox-dev/sphinx-autodoc-typehints/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tox-dev/sphinx-autodoc-typehints/compare/1.21.1...1.21.7)
+
+---
+updated-dependencies:
+- dependency-name: sphinx-autodoc-typehints
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e08b699</div>
+                                        <div class="message">docs: Remove reference to Github discussions (#1888)
+
+
+Signed-off-by: BaconErie &lt;baconerie0001@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7f8e4d</div>
+                                        <div class="message">fix: Update release_level parameters (#1886)
+
+
+Signed-off-by: Revnoplex &lt;62947003+Revnoplex@users.noreply.github.com&gt;
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3941b31</div>
+                                        <div class="message">fix: images sending as 0 bytes in paginator if sent as `io.BytesIO` (#1881)
+
+Signed-off-by: Yaakov Schlachter &lt;contact@cgprograms.com&gt;
+Signed-off-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Lala Sabathil &lt;aiko@aitsys.dev&gt;
+Co-authored-by: BobDotCom &lt;71356958+BobDotCom@users.noreply.github.com&gt;
+Co-authored-by: plun1331 &lt;49261529+plun1331@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Added BobDotComAlt as collaborator in
+                                        <span class="repo">Pycord-Development/pycord</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Pycord-Development/guide</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#03c5728</div>
+                                        <div class="message">chore(deps-dev): Bump typescript from 4.9.4 to 5.0.4 (#303)
+
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.9.4 to 5.0.4.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.9.4...v5.0.4)
+
+---
+updated-dependencies:
+- dependency-name: typescript
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Pycord-Development/guide</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e6ba643</div>
+                                        <div class="message">chore(deps): Bump webpack from 5.76.0 to 5.78.0 (#305)
+
+Bumps [webpack](https://github.com/webpack/webpack) from 5.76.0 to 5.78.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.76.0...v5.78.0)
+
+---
+updated-dependencies:
+- dependency-name: webpack
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Pycord-Development/website</span>
                                     </div>
@@ -1783,144 +2164,6 @@ updated-dependencies:
 - dependency-name: "@swc/core"
   dependency-type: direct:development
   update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1a9ce0</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 5.0.3 to 5.0.4 (#300)
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 5.0.3 to 5.0.4.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.0.3...v5.0.4)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0208ff</div>
-                                        <div class="message">chore(deps-dev): bump @types/react from 18.0.33 to 18.0.36 (#302)
-
-Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.0.33 to 18.0.36.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
-
----
-updated-dependencies:
-- dependency-name: "@types/react"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30f0e18</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 8.37.0 to 8.38.0 (#303)
-
-Bumps [eslint](https://github.com/eslint/eslint) from 8.37.0 to 8.38.0.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.37.0...v8.38.0)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Pycord-Development/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d44bbe</div>
-                                        <div class="message">chore(deps-dev): bump eslint-config-next from 13.2.4 to 13.3.0 (#298)
-
-Bumps [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) from 13.2.4 to 13.3.0.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/commits/v13.3.0/packages/eslint-config-next)
-
----
-updated-dependencies:
-- dependency-name: eslint-config-next
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
@@ -2117,7 +2360,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 738k out of 113m users</span>
+                                    <span class="gh">ranked 739k out of 113m users</span>
                                 </div>
                                 <div class="text">Published 43 public repositories</div>
                             </div>
@@ -2502,7 +2745,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.65m out of 394m repositories</span>
+                                    <span class="gh">ranked 1.69m out of 394m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2817,7 +3060,7 @@ Co-authored-by: plun1331 &lt;49261529+plun1331@users.noreply.github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2023, 14:11:49 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Apr 2023, 15:17:10 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
