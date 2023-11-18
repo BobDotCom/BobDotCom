@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4284" class="">
     <defs>
         <style/>
     </defs>
@@ -498,12 +498,12 @@ Pycord contact email: pycorddev@gmail.com</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 43 commits)</small>
+                    <small class="h-details">(computed from last 46 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 26.1 characters per line of code written</li>
+                        <li>Has approximately 22.8 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1764,6 +1764,232 @@ Pycord contact email: pycorddev@gmail.com</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">BobDotCom/B-1B</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">block-e</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ef52e9</div>
+                                        <div class="message">chore: fix pump panel</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 100 commits in
+                                        <span class="repo">BobDotCom/B-1B</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">block-e</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d10863c</div>
+                                        <div class="message">Add files via upload
+
+New stick added with screw texture</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a34b99</div>
+                                        <div class="message">Delete Models/Instruments-3d/B-1BFS.ac
+
+New stick model needed-screw texture not loaded on this one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#268d1bf</div>
+                                        <div class="message">Add files via upload
+
+Adding new front stick to keep functionality of said stick</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ce3ea3</div>
+                                        <div class="message">Delete Models/Instruments-3d/B-1BFS.ac
+
+removing stick model and adding new one to keep animation of stick working</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf78a49</div>
+                                        <div class="message">Update B-1BFS.xml
+
+Added object name lines for parts of control stick</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c0c55e</div>
+                                        <div class="message">Made texture changes to rear cockpit, as well as a few nice surprises, enjoy.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6748c30</div>
+                                        <div class="message">add DS_Store (macOS) to GitIgnore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8883a6</div>
+                                        <div class="message">Auto-Update Shared Files
+radar-system 2.0.2-&gt;2.0.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c2e9ff</div>
+                                        <div class="message">Auto-Update Shared Files
+radar-system 2.0.1-&gt;2.0.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72b002c</div>
+                                        <div class="message">Update update.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b2fea8</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+Fetched missile-code 1.1.1-&gt;1.1.2
+radar-system is up-to-date (2.0.1)
+radar-system-database is up-to-date (1.0.9)
+damage is up-to-date (1.3.1)
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+geo-bridged-transmitter is up-to-date (1.0.1)
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.21-&gt;1.0.22</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#629505e</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+missile-code is up-to-date (1.1.1)
+radar-system is up-to-date (2.0.1)
+radar-system-database is up-to-date (1.0.9)
+Fetched damage 1.2.1-&gt;1.3.1
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+geo-bridged-transmitter is up-to-date (1.0.1)
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.19-&gt;1.0.21</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89aceab</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+missile-code is up-to-date (1.1.1)
+radar-system is up-to-date (2.0.1)
+Fetched radar-system-database 1.0.7-&gt;1.0.9
+damage is up-to-date (1.2.1)
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+Fetched geo-bridged-transmitter 1.0.0-&gt;1.0.1
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.13-&gt;1.0.19</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0d71a4</div>
+                                        <div class="message">Update update.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#504e4c5</div>
+                                        <div class="message">ci: update update.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6440dee</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+missile-code is up-to-date (1.1.1)
+radar-system is up-to-date (2.0.1)
+radar-system-database is up-to-date (1.0.7)
+damage is up-to-date (1.2.1)
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+geo-bridged-transmitter is up-to-date (1.0.0)
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.7-&gt;1.0.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c583964</div>
+                                        <div class="message">remove redundant rwr code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da5d03a</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+missile-code is up-to-date (1.1.1)
+radar-system is up-to-date (2.0.1)
+radar-system-database is up-to-date (1.0.7)
+Fetched damage 1.2.0-&gt;1.2.1
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+geo-bridged-transmitter is up-to-date (1.0.0)
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.1-&gt;1.0.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7a2247</div>
+                                        <div class="message">Update OPRF Assets
+vector is up-to-date (2.0.3)
+missile-code is up-to-date (1.1.1)
+radar-system is up-to-date (2.0.1)
+Fetched radar-system-database 1.0.4-&gt;1.0.7
+damage is up-to-date (1.2.0)
+iff is up-to-date (1.1.0)
+datalink is up-to-date (1.1.0)
+station-manager is up-to-date (1.1.0)
+rcs-mand is up-to-date (1.0.3)
+armament-notification is up-to-date (1.1.0)
+geo-bridged-transmitter is up-to-date (1.0.0)
+crash-and-stress is up-to-date (0.1.9)
+Fetched airbases 1.0.0-&gt;1.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67eff3e</div>
+                                        <div class="message">Sim: stop b1b.nas from adding engines to failmgr - Now in dmg code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">BobDotCom/B-1B</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">block-e</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bf88508</div>
+                                        <div class="message">chore: reset better</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 100 commits in
                                         <span class="repo">BobDotCom/B-1B</span>
                                     </div>
@@ -2039,63 +2265,6 @@ Signed-off-by: onox &lt;denkpadje@gmail.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#260c234</div>
                                         <div class="message">Now with exploding engines!</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BobDotCom/B-1B</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3401d71</div>
-                                        <div class="message">fix: fix syntax</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#31 Radar system</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">BobDotCom/B-1B</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BobDotCom/B-1B</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa6e709</div>
-                                        <div class="message">chore: add todo</div>
                                     </div>
                                 </div>
                             </section>
@@ -2673,7 +2842,7 @@ Signed-off-by: onox &lt;denkpadje@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.80m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 1.80m out of 60.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2744,7 +2913,7 @@ Signed-off-by: onox &lt;denkpadje@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.20m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 1.20m out of 60.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 18 stars</div>
                             </div>
@@ -2949,7 +3118,7 @@ Signed-off-by: onox &lt;denkpadje@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 17 Nov 2023, 21:42:57
+                            On 15 Nov 2023, 22:36:51
                         </div>
                     </section>
                 </div>
@@ -2959,30 +3128,17 @@ Signed-off-by: onox &lt;denkpadje@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update OPRF Assets
-vector is up-to-date (2.0.3)
-missile-code is up-to-date (1.1.1)
-radar-system is up-to-date (2.0.1)
-radar-system-database is up-to-date (1.0.7)
-damage is up-to-date (1.2.1)
-iff is up-to-date (1.1.0)
-datalink is up-to-date (1.1.0)
-station-manager is up-to-date (1.1.0)
-rcs-mand is up-to-date (1.0.3)
-armament-notification is up-to-date (1.1.0)
-geo-bridged-transmitter is up-to-date (1.0.0)
-crash-and-stress is up-to-date (0.1.9)
-Fetched airbases 1.0.7-&gt;1.0.13
+                            refactor: rename dc 1/2 to dc fwd/aft
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6440deed</span>
-                            <span class="code">oprf-versions.json</span>
+                            <span class="code">ffa86abd</span>
+                            <span class="code">B-1B-set.xml</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++2</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -2990,14 +3146,14 @@ Fetched airbases 1.0.7-&gt;1.0.13
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -48,7 +48,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   "path": "Nasal/crash-and-stress.nas"<br /></span><span class="token prefix unchanged">·</span><span class="token line"> },<br /></span><span class="token prefix unchanged">·</span><span class="token line"> "airbases": {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   "version": "1.0.7",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   "version": "1.0.13",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   "path": "Nasal/airbases.nas"<br /></span><span class="token prefix unchanged">·</span><span class="token line"> }<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -660,8 +660,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;electrical n="0"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;bus&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;ac-ess type="double"&gt;0&lt;/ac-ess&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    &lt;dc-1 type="double"&gt;0&lt;/dc-1&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">    &lt;dc-2 type="double"&gt;0&lt;/dc-2&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    &lt;dc-fwd type="double"&gt;0&lt;/dc-fwd&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">    &lt;dc-aft type="double"&gt;0&lt;/dc-aft&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/bus&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;relay&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;ess-tr-contactor&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2023, 22:19:03 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 23:14:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
