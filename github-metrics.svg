@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -84,7 +84,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7889 Commits
+                            7893 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,7 +192,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    626k added, 35.7k removed
+                                    850k added, 278k removed
                                 </div>
                             </section>
                             <section>
@@ -348,14 +348,14 @@ Pycord contact email: pycorddev@gmail.com</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.4860704282092" height="8" fill="#1d2c4e"/>
-                    <rect mask="url(#languages-bar)" x="178.4860704282092" y="0" width="161.43279097925176" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="339.91886140746095" y="0" width="83.73409512899134" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="423.6529565364523" y="0" width="13.160369167037665" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="436.81332570348997" y="0" width="7.3540249188307625" height="8" fill="#1e4aec"/>
-                    <rect mask="url(#languages-bar)" x="444.1673506223207" y="0" width="5.48715379910667" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.6545044214274" y="0" width="5.253143456471353" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="454.9076478778988" y="0" width="5.092352122101268" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.48636878281877" height="8" fill="#1d2c4e"/>
+                    <rect mask="url(#languages-bar)" x="178.48636878281877" y="0" width="161.43306082785796" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="339.9194296106768" y="0" width="83.7342350976354" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="423.6536647083122" y="0" width="13.160391165711264" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.8140558740235" y="0" width="7.354037211707334" height="8" fill="#1e4aec"/>
+                    <rect mask="url(#languages-bar)" x="444.16809308573085" y="0" width="5.487162971349779" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.65525605708063" y="0" width="5.252383308519585" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="454.9076393656002" y="0" width="5.092360634399879" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2425,7 +2425,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.27m out of 218m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2496,7 +2496,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.42m out of 218m repositories</span>
+                                    <span class="gh">ranked 1.42m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -2740,7 +2740,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2024, 16:18:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2024, 17:18:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
