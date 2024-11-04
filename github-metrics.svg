@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -1522,6 +1522,13 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1539,13 +1546,8 @@ Pycord contact email: pycorddev@gmail.com</div>
                             <div class="entry">
                                 <span class="value">62</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                21
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 22
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1607,6 +1609,11 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                4
                             </div>
                         </div>
                     </section>
@@ -1616,13 +1623,8 @@ Pycord contact email: pycorddev@gmail.com</div>
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                21
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 22
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1684,6 +1686,11 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                4
                             </div>
                         </div>
                     </section>
@@ -2106,7 +2113,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.10711841204657 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.3193018480493 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2368,7 +2375,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.27m out of 219m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2480,7 +2487,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.43m out of 219m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -2685,7 +2692,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Nov 2024, 02:41:23
+                            On 1 Nov 2024, 12:47:23
                         </div>
                     </section>
                 </div>
@@ -2695,15 +2702,17 @@ Pycord contact email: pycorddev@gmail.com</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            build(deps): migrate to nuqs (#81)
+                            build(deps): downgrade to eslint v8
 
-next-usequerystate was renamed to nuqs
+Eslint v9 isn't supported until next.js v15. Not sure why some of the builds worked after eslint was updated, but they shouldn't have.
+
+Eslint should be updated again after next.js is updated to v15
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">cb4ea702</span>
+                            <span class="code">56be73c4</span>
                             <span class="code">package.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2715,14 +2724,14 @@ next-usequerystate was renamed to nuqs
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,7 +16,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"@vercel/speed-insights": "^1.0.14",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"csv": "^6.3.10",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"next": "14.2.10",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"next-usequerystate": "^1.20.0",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"nuqs": "^2.1.1",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"react": "^18",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"react-dom": "^18",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"react-loading-skeleton": "^3.5.0"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -26,7 +26,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"@types/react": "^18",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@types/react-dom": "^18",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"autoprefixer": "^10.4.20",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"eslint": "^9",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"eslint": "^8",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"eslint-config-next": "15.0.2",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"postcss": "^8",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"serve": "^14.2.4",</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2024, 17:20:25 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 19:38:07 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
