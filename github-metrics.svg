@@ -2305,7 +2305,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.29m out of 221m repositories</span>
+                                    <span class="gh">ranked 2.29m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2376,7 +2376,7 @@ Pycord contact email: pycorddev@gmail.com</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.45m out of 221m repositories</span>
+                                    <span class="gh">ranked 1.45m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -2620,7 +2620,7 @@ Pycord contact email: pycorddev@gmail.com</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 09:23:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 10:27:40 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
